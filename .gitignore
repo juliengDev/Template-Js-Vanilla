@@ -1,0 +1,14 @@
+/node_modules
+/packages
+.DS_Store
+Thumbs.db
+.idea/workspace.xml
+.o 
+.pyc
+.class
+/bin
+/out
+/target
+.log
+.lock
+.tmp
